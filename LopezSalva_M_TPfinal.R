@@ -10,7 +10,7 @@ install.packages("ggplot2")
 install.packages("tm")
 install.packages("wordcloud") 
 install.packages("RColorBrewer") 
-install.packages("dplR")
+install.packages("dplyr")
 
 # Cargar las librerías necesarias
 library(tidyverse)
